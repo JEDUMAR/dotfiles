@@ -1,0 +1,13 @@
+[username]
+style_user = "bold green"
+format = "[$user]($style) "
+show_always = true
+
+[hostname]
+format = "en [$hostname](bold blue) "
+
+[directory]
+format = "en [$path](bold cyan) "
+
+[character]
+success_symbol = "[➜](bold green) "
